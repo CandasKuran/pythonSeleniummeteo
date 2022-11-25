@@ -1,0 +1,37 @@
+
+ -------------- 
+ ville : 1400 yverdon-les-bains
+ date : Observation du 25 Nov. 2022, 12:00
+ temperateur : 8�
+ MaxMin : Min 4� | Max 8�
+ Humidit� : 96 %
+ -------------- 
+ ville :  1000 lausanne
+ date : Observation du 25 Nov. 2022, 12:00
+ temperateur : 7�
+ MaxMin : Min 2� | Max 7�
+ Humidit� : 75 %
+ -------------- 
+ ville :  1450 Le Ch�teau-de-Ste-Croix
+ date : Observation du 25 Nov. 2022, 12:00
+ temperateur : 4�
+ MaxMin : Min 0� | Max 4�
+ Humidit� : 97 %
+ -------------- 
+ ville :  8000 zurich
+ date : Observation du 25 Nov. 2022, 12:00
+ temperateur : 8�
+ MaxMin : Min 3� | Max 9�
+ Humidit� : 86 %
+ -------------- 
+ ville :  3000 bern
+ date : Observation du 25 Nov. 2022, 12:00
+ temperateur : 8�
+ MaxMin : Min 3� | Max 8�
+ Humidit� : 79 %
+ -------------- 
+ ville :  4000 basel
+ date : Observation du 25 Nov. 2022, 12:00
+ temperateur : 9�
+ MaxMin : Min 5� | Max 10�
+ Humidit� : 90 %
